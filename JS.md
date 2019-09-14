@@ -130,13 +130,13 @@ Objects are **class free**, can contain other objects and can inherit properties
 var empty_object = {};
 
 var today = {
-	day: "Wednesday",
-	month: "April",
-	year: 2014,
+	day: "Saturday",
+	month: "September",
+	year: 2019,
 
 	weather: { //objects can contain nested objects like this one
 		morning: "sunny",
-		afternoon: "cloudy"
+		afternoon: "sunny"
 	}
 }
 ```
